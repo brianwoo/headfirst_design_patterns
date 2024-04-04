@@ -22,3 +22,5 @@ The Observer Pattern defines a one-to-many dependency between objects so that wh
 
 ## Diagram
 ![Class Diagram 1](./images/f0052-01.png)
+
+![Class Diagram 2](./images/f0057-01.png)
